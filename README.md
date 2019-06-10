@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dfvaler/dfvaler/_apis/build/status/DavidValentin.Microsoft-Pipeline?branchName=master)](https://dev.azure.com/dfvaler/dfvaler/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
